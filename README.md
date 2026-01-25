@@ -1,6 +1,7 @@
 # Project Name: devops-capstone-project
 ## Description: learning capstone project
 
+![Build Status](https://github.com/MrTokata/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 # DevOps Capstone Template
 
